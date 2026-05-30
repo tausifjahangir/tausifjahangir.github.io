@@ -286,6 +286,16 @@ body {
   margin-top: 24px;
 }
 
+.contact-info {
+  margin-top: 45px;
+  margin-bottom: 25px;
+}
+
+.contact-info p {
+  color: #cbd5e1;
+  margin-bottom: 6px;
+}
+
 @media (max-width: 1000px) {
   .stats {
     grid-template-columns: repeat(2, 1fr);
